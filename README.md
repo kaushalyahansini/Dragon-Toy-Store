@@ -6,11 +6,11 @@
 +      - Product catalog
 +      - User Account Management
 +      - User Authentication
-+       - Cart functionality 
-+       - Administrator Privileges to maintain product catalog
++      - Cart functionality 
++      - Administrator Privileges to maintain product catalog
 +      - Client and server side form validation
 +      - Maintaining user information through tracking of Sessions and Cookies. 
-+       - Catalog containing toys classified on various categories
++      - Catalog containing toys classified on various categories
 +
 + Technologies Used:
 +       - Web Server: Apache
