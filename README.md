@@ -6,7 +6,7 @@
 +      - Product catalog
 +      - User Account Management
 +      - User Authentication
-+      - Cart functionality 
++      - Cart functionality
 +      - Administrator Privileges to maintain product catalog
 +      - Client and server side form validation
 +      - Maintaining user information through tracking of Sessions and Cookies. 
